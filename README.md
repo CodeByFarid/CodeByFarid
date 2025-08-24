@@ -3,6 +3,8 @@
   <span style="font-size: 48px; font-weight: bold;">Bienvenido a mi GitHub</span>
 </div>
 
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="80"/> asas
+
 <div align="center">
 
 # Hola, soy Farid  
