@@ -1,6 +1,9 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="80" style="margin-right: 15px;"/>
+<div style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="80"/>
+
   <h1 style="font-size: 48px; margin: 0;">Bienvenido a mi GitHub</h1>
+
 </div>
 
 <hr>
