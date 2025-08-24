@@ -1,15 +1,36 @@
-# 💫 About Me:
-👨‍💻 Soy Farid, estudiante de Ingeniería de Sistemas.<br>En este perfil encontrarás mis proyectos de la universidad y ejercicios en Java y SQL, como parte de mi formación en programación.
 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MiguelFarid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MiguelFarid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFarid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100" style="margin-right: 15 px;"/>
+  <span style="font-size: 32px; font-weight: bold;">Bienvenido a mi Github</span>
+</div>
+<hr>
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=MiguelFarid&icon=0&color=0)](https://visitcount.itsvg.in)
+#  Hola, soy Farid  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+En este perfil comparto mis proyectos universitarios y ejercicios en Java y SQL, como parte de mi formación en programación.
+
+<div align="center">
+
+  <span style="font-size: 20px; font-weight: bold;">Conocimientos en progreso:</span>
+  <br><br>
+
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/><br>
+        <span>Java</span>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/><br>
+        <span>Base de Datos</span>
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50"/><br>
+        <span>Swift</span>
+      </td>
+    </tr>
+  </table>
+
+</div>
