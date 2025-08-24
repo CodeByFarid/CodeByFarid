@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="vertical-align: middle; padding-right: 15px;">
       <h1 style="font-size: 80px; margin: 0;">Bienvenido a mi GITHUB</h1>
