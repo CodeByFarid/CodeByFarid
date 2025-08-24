@@ -1,3 +1,4 @@
+<!-- Encabezado con GIF a la derecha -->
 <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td style="vertical-align: middle; padding-right: 15px; border: none;">
@@ -9,19 +10,16 @@
   </tr>
 </table>
 
-# Hola, soy Farid  
-
-En este perfil comparto mis proyectos universitarios y ejercicios en Java y SQL, como parte de mi formación en programación.
-
+<!-- Presentación personal -->
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <h2>Hola, soy Farid</h2>
+  <p>En este perfil comparto mis proyectos universitarios y ejercicios en Java y SQL, como parte de mi formación en programación.</p>
 </div>
 
-<br>
-
+<!-- Conocimientos en progreso -->
 <div align="center">
-
   <span style="font-size: 20px; font-weight: bold;">Conocimientos en progreso:</span>
   <br><br>
-
   <table>
     <tr>
       <td align="center" width="100">
@@ -38,7 +36,10 @@ En este perfil comparto mis proyectos universitarios y ejercicios en Java y SQL,
       </td>
     </tr>
   </table>
+</div>
 
-<h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+<!-- GitHub Metrics -->
+<h1 align="center">Github Metrics</h1>
+<p align="center">
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByFarid&theme=github_dark" />
 </p>
