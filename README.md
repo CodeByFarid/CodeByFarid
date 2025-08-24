@@ -1,15 +1,19 @@
-
-
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="100" style="margin-right: 15 px;"/>
-  <span style="font-size: 32px; font-weight: bold;">Bienvenido a mi Github</span>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="80" style="margin-right: 15px;"/>
+  <h1 style="font-size: 48px; margin: 0;">Bienvenido a mi GitHub</h1>
 </div>
+
 <hr>
+
 <div align="center">
 
-#  Hola, soy Farid  
+# Hola, soy Farid  
 
 En este perfil comparto mis proyectos universitarios y ejercicios en Java y SQL, como parte de mi formación en programación.
+
+</div>
+
+<br>
 
 <div align="center">
 
