@@ -1,6 +1,6 @@
 <div style="display: inline-flex; align-items: center; justify-content: center; gap: 15px; width: 100%;">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N0NjhnbGVoNzJxcjkwY3lxeWZyZ2N4NWdmZzZvODh2Z2p5ZzloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="80"/>
-  <h1 style="font-size: 48px; margin: 0;">Bienvenido a mi GitHub</h1>
+  <span style="font-size: 48px; font-weight: bold;">Bienvenido a mi GitHub</span>
 </div>
 
 <div align="center">
