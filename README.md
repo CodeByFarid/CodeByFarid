@@ -36,7 +36,7 @@
 </div>
 
 <!-- GitHub Metrics -->
-<h1 align="center">Resumen de actividad </h1>
+<h1 align="center">Github Metrics</h1>
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByFarid&theme=github_dark" />
 </p>
