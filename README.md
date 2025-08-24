@@ -12,7 +12,7 @@
 
 <!-- Presentación personal -->
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <h2>Hola, soy Farid 👋</h2>
+  <h1>Hola, soy Farid 👋</h1>
   <p>En este perfil comparto mis proyectos universitarios y ejercicios en Java y SQL, como parte de mi formación en programación.</p>
 </div>
 <!-- Conocimientos en progreso -->
@@ -36,7 +36,7 @@
 </div>
 
 <!-- GitHub Metrics -->
-<h1 align="center">Github Metrics</h1>
+<h1 align="center">Estadísticas:</h1>
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeByFarid&theme=github_dark" />
 </p>
